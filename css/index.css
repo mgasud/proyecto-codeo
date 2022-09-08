@@ -14,7 +14,7 @@
     border-radius: 10px;
     border-style: solid;
     border-width: 4px;
-    background-image: linear-gradient(to bottom,violet,turquoise);
+    background-image: linear-gradient(to bottom,lightblue,turquoise,rgba(38, 213, 38, 0.628));
 
     
 
@@ -128,7 +128,7 @@ img{ border-radius: 10px;
     border-radius: 10px;
     border-style: solid;
     border-width: 4px;   
-    background-image: linear-gradient(to bottom,violet,turquoise);
+    background-image: linear-gradient(to bottom, lightblue,turquoise);
 
 
 }
