@@ -14,7 +14,7 @@
     border-radius: 10px;
     border-style: solid;
     border-width: 4px;
-    background-image: linear-gradient(to bottom,lightblue,turquoise,rgba(38, 213, 38, 0.628));
+    
 
     
 
@@ -124,25 +124,17 @@ img{ border-radius: 10px;
 }
     
 /* footer*/
-.footer{background-color:  #ef4a4a;
+.footer{
+    
     border-radius: 10px;
     border-style: solid;
-    border-width: 4px;   
-    background-image: linear-gradient(to bottom, lightblue,turquoise);
+    border-width: 4px;  
+    
+    
+    
 
 
-}
-.pie {font-family: Arial, Helvetica, sans-serif; 
-    background-color: #add8e6;
-border-radius: 10px;
-border-style:solid;
-border-width: 2px;
-font-size: 20px;
-display: grid;
-grid-template-areas:"parrafo""social";
-grid-row: 1rem;
-grid-template-columns:auto auto auto;
-transition:transform 500ms ease-in-out;
+
 
 
 
